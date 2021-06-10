@@ -1,0 +1,9 @@
+fundamental  
+#include <stdio.h>
+
+int main()                               # function name
+{                                        # start of the program
+  # program statement or code
+  printf("hello world");                 # ptintf function print our code whatever we compute
+  return 0;                              # this is return statement
+}                                        # end of the function here

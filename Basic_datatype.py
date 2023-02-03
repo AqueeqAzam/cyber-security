@@ -1,5 +1,5 @@
 
-# I covering some basic of python how this works in cyber security
+# I am covering some basic data type of python how this works in cyber security
 # integers
 port = 3000
 print(type(port))

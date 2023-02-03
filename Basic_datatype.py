@@ -1,5 +1,9 @@
+
 # I covering some basic of python how this works in cyber security
 # integers
+port = 3000
+print(type(port))
+
 httpPort = 80
 print(httpPort)
 
@@ -8,10 +12,16 @@ encrypt = 7.3/3
 print(encrypt)
 
 # string
+banner = "FreeFloat FTP Server"
+print(type(banner))
+
 route = "https://github.com/AqueeqAzam/cyber-security"
 print(route)
 
 # boolean
+portOpen = True
+print(type(portOpen))
+
 portOpen = True
 portClose = False
 portOpen = 3000

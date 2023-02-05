@@ -21,7 +21,13 @@
   you want to remove an empty subdirectory named personal1 and its main folder mydir:
   rmdir -p mydir/personal1
 
-# 
+# kill: to terminate an unresponsive program manually.
+   to run type ps ux
+
+# touch: allows you to create an empty file.
+  eg enter the following command to create an HTML file named Web in the Documents directory:
+  touch /home/username/Documents/index.html
+
 
 
 References

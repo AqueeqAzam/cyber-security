@@ -1,1 +1,31 @@
+# sudo: sudo is one of the most popular basic Linux commands that lets you perform
+ tasks that require administrative or root permissions.
+
+# pwd: pwd command to find the path of your current working directory.
+  eg /home/username
+
+# cd: navigate through the Linux files and directories, use the cd command.
+  eg
+ home/username/Documents and want to go to photo, type cd/photo.
+
+# ls: command lists explore and directories within a system.
+
+# mv: mv command is to move and rename files and directories.
+  eg you want to move filename.txt to the /home/username/Documents directory:
+  mv filename.txt /home/username/Documents.
+
+# mkdir: mkdir command to create one or multiple directories.
+  mkdir directory name
+
+# rmdir: To permanently delete an empty directory, use the rmdir command
+  you want to remove an empty subdirectory named personal1 and its main folder mydir:
+  rmdir -p mydir/personal1
+
+# 
+
+
+References
+
+Artūras B. Hostinger tutorials, Hostinger.
+https://www.hostinger.com/tutorials/linux-commands
 
